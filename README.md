@@ -68,10 +68,10 @@ another example: Millenium Feature, MagnaPharmRoBuild etc
 
 
 # Workflow
-New branches will be created only from branch **master**/ New branches will be created only with **go-task NoTask** command.
-Branch **uat** is used for test environment.
-Branch **release** is user for production environmnent.
+- New branches will be created only from branch **master**/ New branches will be created only with **go-task NoTask** command.
+- Branch **uat** is used for test environment.
+- Branch **release** is user for production environmnent.
 
-All the unnecessary branches will be deleted - locally with command **git -d branch NameBranch**
+- All the unnecessary branches will be deleted - locally with command **git -d branch NameBranch**
                                              - on remote with command **git push origin --delete Blr_Branch**
 
