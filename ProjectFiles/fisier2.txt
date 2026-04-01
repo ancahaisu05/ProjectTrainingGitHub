@@ -11,4 +11,6 @@ Acesta e noul format
 
 
 Acesta este fisierul 1.
-Nu mai contine aceleasi informatii ca inainte.
+Contine niste informatii
+Dar as vrea sa fac un merge conflict acum.
+Si cred ca imi va iesi
