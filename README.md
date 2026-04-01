@@ -1,7 +1,9 @@
 # Simple README.md structure for VS Code Business Central projects
-
+# Client Name
+    ex: Millenium, Redoxim, NHR etx.
 # Project Name
     Proiect Training Git
+another example: Millenium Feature, MagnaPharmRoBuild etc
 # Simple Description of the extension/project
     This project show how to use the standard Git Command and GitHub Repository.
     Commands in Git
@@ -60,7 +62,16 @@
     - README.md
 
 # Clone and Run
-
 **GitHub URL for clone project**: https://github.com/ancahaisu05/ProjectTrainingGitHub.git
 **Run**: Ctrl+F5 -> Run for dev
          Extension Management -> Install Extension -> Run for test
+
+
+# Workflow
+New branches will be created only from branch **master**/ New branches will be created only with **go-task NoTask** command.
+Branch **uat** is used for test environment.
+Branch **release** is user for production environmnent.
+
+All the unnecessary branches will be deleted - locally with command **git -d branch NameBranch**
+                                             - on remote with command **git push origin --delete Blr_Branch**
+
