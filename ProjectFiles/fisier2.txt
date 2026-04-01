@@ -1,2 +1,14 @@
+
+
+Fisierul1 a fost modificat in branch-ul 2.
+Acesta e noul format
+
+
+
+
+
+
+
+
 Acesta este fisierul 1.
-Contine niste informatii
+Nu mai contine aceleasi informatii ca inainte.
