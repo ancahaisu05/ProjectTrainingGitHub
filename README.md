@@ -62,9 +62,9 @@ another example: Millenium Feature, MagnaPharmRoBuild etc
     - README.md
 
 # Clone and Run
-**GitHub URL for clone project**: https://github.com/ancahaisu05/ProjectTrainingGitHub.git
-**Run**: Ctrl+F5 -> Run for dev
-         Extension Management -> Install Extension -> Run for test
+- **GitHub URL for clone project**: https://github.com/ancahaisu05/ProjectTrainingGitHub.git
+- **For testing: Run**: - Ctrl+F5 -> Run for dev
+                        - Extension Management -> Install Extension -> Run for test
 
 
 # Workflow
