@@ -1,0 +1,6 @@
+*.app
+rad.json
+permissionsAnalyzer.json
+**/.alcache/*
+**/.altemplates/*
+.snapshots
